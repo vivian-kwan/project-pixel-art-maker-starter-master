@@ -26,18 +26,12 @@ th {
 
 tr {
     height: 20px;
-    
 }
 
 td {
-    width: 20px;
-
-    
+    width: 20px; 
 }
 
-td:click { /* th:hover also if you wish */
-  background: yellow;
-}
 
 input[type=number] {
     width: 6em;
@@ -47,8 +41,4 @@ input[type=number] {
     border-collapse: collapse;
     margin: 0 auto;
     background-color: white;     
-}
-
-#sizePicker{
-
 }
